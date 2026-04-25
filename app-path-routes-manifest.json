@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/me/route": "/api/auth/me",
+  "/api/auth/register/route": "/api/auth/register",
+  "/api/orders/route": "/api/orders",
+  "/catalogs/page": "/catalogs",
+  "/checkout/page": "/checkout",
+  "/dashboard/page": "/dashboard",
+  "/documents/page": "/documents",
+  "/favicon.ico/route": "/favicon.ico",
+  "/gallery/page": "/gallery",
+  "/login/page": "/login",
+  "/page": "/",
+  "/products/page": "/products",
+  "/register/page": "/register"
+}
